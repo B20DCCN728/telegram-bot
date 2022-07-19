@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import *
 
 
-print("Bot started =)) ĐỊT MẸ MÀY")
+print("Bot started ")
 
 #funcion to check user's message
 def sample_responses(input_text):
