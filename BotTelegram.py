@@ -29,7 +29,7 @@ def hand_message(update: Update, context: CallbackContext) -> None:
     responses = sample_responses(text)
 
     if responses == 1:
-        update.message.reply_text("Hello, Fuck you baby <3")
+        update.message.reply_text("Hello you <3")
     elif responses == 2 : 
         update.message.
 
