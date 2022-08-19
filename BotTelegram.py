@@ -16,7 +16,7 @@ def sample_responses(input_text):
     for res in user_message:
         if res in ("hello", "hi", "chào","chào"):
             return 1
-        if res in ("địt","fuck","pusy","dick","lồn","đụ"):
+        if res in (""):
             return 2
 
 #funcion to reply message
